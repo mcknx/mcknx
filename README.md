@@ -1,8 +1,8 @@
 <p align="center">
-    <a href="https://mckeenasma.vercel.app/"><img src="imgs/cv.svg" alt="Personal Website"></a>
-    <a href="https://twitter.com/mcknx"><img src="imgs/twitter.svg" alt="Twitter"></a>
-    <a href="https://github.com/mcknx"><img src="imgs/github.svg" alt="GitHub"></a>
-    <a href="https://www.linkedin.com/in/mckeenasma/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+    <a href="https://mckeenasma.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="imgs/cv.svg" alt="Personal Website"></a>
+    <a href="https://twitter.com/mcknx" target="_blank" rel="noopener noreferrer"><img src="imgs/twitter.svg" alt="Twitter"></a>
+    <a href="https://github.com/mcknx" target="_blank" rel="noopener noreferrer"><img src="imgs/github.svg" alt="GitHub"></a>
+    <a href="https://www.linkedin.com/in/mckeenasma/" target="_blank" rel="noopener noreferrer"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
 </p>
 
 <p>
