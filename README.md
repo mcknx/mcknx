@@ -6,11 +6,28 @@
 </p>
 
 <p>
-McKeen Asma is a Full Stack Web & Mobile Developer with a Bachelor of Science in Information Technology from the University of the Immaculate Conception. He has experience working in various roles, including Junior Frontend Developer at Tactiv Studios Design and Development, and Frontend React Developer/Full Stack Developer at Steelx Pty Ltd.
+Hey there! 👋 I'm McKeen Asma, a Software Developer based in Davao City, Philippines. I specialize in both frontend and backend technologies, including React, Node.js, Express.js, and C#. I have experience integrating new designs and npm packages efficiently to meet project requirements. With a Bachelor's degree in Information Technology from the University of the Immaculate Conception, I'm equipped with the skills to tackle diverse software development challenges.
 
-During his time at Steelx Pty Ltd, he focused on frontend React applications, primarily addressing issues within a significant management system used by at least 500 individuals, including clients and administrators. Additionally, he handled integrating new designs and necessary npm packages based on the task at hand. Furthermore, he performed C# backend debugging and coding as required, given that the majority of the system is coded in C#.
+🚀 My Skills:
 
-He has also participated in several competitions, including Hackfest 2020 and the Mindanao Programming Summer Camp 2018. He was a top 15 finalist in the Mindanao Wide IT Olympiad 2018 (Programming Competition).
+ReactJS
+TailwindCSS
+HTML5
+CSS3
+JavaScript
+MongoDB
+React Native
+Node.js
+Rest API
+💼 Previous Experience:
+
+Frontend React Developer/Full Stack Developer at Steelx Pty Ltd (Nov 2022 - Apr 2024)
+Frontend Developer at Tactiv Studios Design and Development (Apr 2022 - Nov 2022)
+Full Stack Web & Mobile Developer at WAL Software Solutions (Apr 2021 - Apr 2022)
+🌐 Portfolio: mckeenasma.vercel.app
+🔗 GitHub: github.com/mcknx
+
+Looking forward to connecting with you!
 </p>
 <p align="center">📖 Check out
     <a href="https://github.com/mcknx">what he's working on</a>!
