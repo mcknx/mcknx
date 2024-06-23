@@ -21,16 +21,7 @@ Node.js </br>
 Rest API </br>
 
 </br>
-💼 Previous Experience:
 
-
-</br></br>
-Frontend React Developer/Full Stack Developer at Steelx Pty Ltd (Nov 2022 - Apr 2024)
-</br>
-Frontend Developer at Tactiv Studios Design and Development (Apr 2022 - Nov 2022)
-</br>
-Full Stack Web & Mobile Developer at WAL Software Solutions (Apr 2021 - Apr 2022)
-</br>
 🌐 Portfolio: mckeenasma.vercel.app
 </br>
 🔗 GitHub: github.com/mcknx
