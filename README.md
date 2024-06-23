@@ -6,7 +6,7 @@
 </p>
 
 <p>
-Hey there! 👋 I'm McKeen Asma, a Software Developer based in Davao City, Philippines. I specialize in both frontend and backend technologies, including React, Node.js, Express.js, and C#. I have experience integrating new designs and npm packages efficiently to meet project requirements. With a Bachelor's degree in Information Technology from the University of the Immaculate Conception, I'm equipped with the skills to tackle diverse software development challenges.
+Experienced in frontend and full stack development, adeptly translating complex designs into functional code with ReactJS, React Native, Vue.js, Firebase, MySQL, MongoDB, and more. Skilled in improving UI/UX and achieving project success through collaborative problem-solving, deadline management, and mentoring junior team members, fostering efficient project delivery and skill growth.
 
 🚀 My Skills:
 
@@ -22,9 +22,13 @@ Rest API
 💼 Previous Experience:
 
 Frontend React Developer/Full Stack Developer at Steelx Pty Ltd (Nov 2022 - Apr 2024)
+</br>
 Frontend Developer at Tactiv Studios Design and Development (Apr 2022 - Nov 2022)
+</br>
 Full Stack Web & Mobile Developer at WAL Software Solutions (Apr 2021 - Apr 2022)
+</br>
 🌐 Portfolio: mckeenasma.vercel.app
+</br>
 🔗 GitHub: github.com/mcknx
 
 Looking forward to connecting with you!
