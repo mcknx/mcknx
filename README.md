@@ -19,6 +19,8 @@ MongoDB
 React Native
 Node.js
 Rest API
+
+</br>
 💼 Previous Experience:
 
 Frontend React Developer/Full Stack Developer at Steelx Pty Ltd (Nov 2022 - Apr 2024)
