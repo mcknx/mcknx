@@ -10,19 +10,21 @@ Experienced in frontend and full stack development, adeptly translating complex 
 
 🚀 My Skills:
 
-ReactJS
-TailwindCSS
-HTML5
-CSS3
-JavaScript
-MongoDB
-React Native
-Node.js
-Rest API
+ReactJS </br>
+TailwindCSS </br>
+HTML5 </br>
+CSS3 </br>
+JavaScript </br>
+MongoDB </br>
+React Native </br>
+Node.js </br> 
+Rest API </br>
 
 </br>
 💼 Previous Experience:
 
+
+</br></br>
 Frontend React Developer/Full Stack Developer at Steelx Pty Ltd (Nov 2022 - Apr 2024)
 </br>
 Frontend Developer at Tactiv Studios Design and Development (Apr 2022 - Nov 2022)
