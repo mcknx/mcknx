@@ -20,7 +20,7 @@ Portfolio: **[mckenneth.vercel.app](https://mckenneth.vercel.app)** · Email: [m
 
 <!-- more-start -->
 
-New: [SaaS billing starter](https://github.com/mcknx/saas-billing-starter) (Next.js · Postgres RLS · idempotent Stripe webhooks, offline tests) · [Claude agent loop guard](https://github.com/mcknx/claude-agent-loop-guard) (Anthropic TS SDK · Playwright · turn/USD budget guards)
+New: [SaaS billing starter](https://github.com/mcknx/saas-billing-starter) (Next.js · Postgres RLS · idempotent Stripe webhooks, offline tests) · [Claude agent loop guard](https://github.com/mcknx/claude-agent-loop-guard) (Anthropic TS SDK · Playwright · turn/USD budget guards) · [LLM eval harness](https://github.com/mcknx/llm-eval-harness) (golden dataset · LLM-as-judge · CI gate on regressions)
 
 More: [Clinic Chat Assistant](https://github.com/mcknx/clinic-chat-assistant) · [Inbox Triage](https://github.com/mcknx/inbox-triage) · [WordPress Speed Fix](https://github.com/mcknx/wp-speed-fix) · [Forge Desk (Nuxt 3, 138 tests)](https://github.com/mcknx/forge-desk-nuxt3) · [FIFA Coin (React + GSAP)](https://fifa-coin-kappa.vercel.app/)
 <!-- more-end -->
