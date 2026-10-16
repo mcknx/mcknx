@@ -6,7 +6,7 @@ Davao City, Philippines (UTC+8). Building web apps since 2021: React/Next.js fro
 
 **Can start this week** for remote contract or part-time work, 1 PM–10 PM PHT (overlaps UK/EU mornings, AU afternoons and US East early mornings).
 
-Portfolio: **[mckenneth.vercel.app](https://mckenneth.vercel.app)** · Email: [mcknasma@gmail.com](mailto:mcknasma@gmail.com)
+Portfolio: **[mckenneth.vercel.app](https://mckenneth.vercel.app)** · Résumé: **[PDF, 1 page](McKeen-Asma-Full-Stack-Developer.pdf)** · Email: [mcknasma@gmail.com](mailto:mcknasma@gmail.com)
 
 ## Featured work
 
